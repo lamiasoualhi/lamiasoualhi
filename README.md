@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lamiasoualhi (nickname is Mia).
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning Javascript and a bit of scss, hoping to start learning Python very soon.
+- 🌱 I’m currently learning Javascript, hoping to start learning Python and react very soon (highly doubt it since I have school).
 - 💞️ I’m looking to collaborate on anything, I don't know, just testing things out, i'm actually an architecture student, this is a hobby I just picked!
 - 📫 How to reach me: my facebook: Lamia Soualhi
 - 😄 Pronouns: She/her
